@@ -8,13 +8,6 @@
       "tech": "Sam Smith"
     },
     {
-      "id": 2,
-      "message": "Workstation 007 not posting",
-      "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
-    },
-    {
       "id": 3,
       "message": "Changed memory on workstation 050",
       "attention": false,
