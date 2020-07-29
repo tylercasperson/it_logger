@@ -1,4 +1,4 @@
-# IT Job Logger
+# IT Logger
 
 ### There is no live website for this application. I used json-server for my database, which stores the data in a text file. This is a great tool! I don't want to change it.
 
