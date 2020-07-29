@@ -1,6 +1,17 @@
 # IT Job Logger
 
-### Here is the link to the live website: [IT Job Logger](http://tylercasperson.github.io/it_logger/)
+### There is no live website for this application. I used json-server for my database, which stores the data in a text file. This is a great tool! I don't want to change it.
+
+## Usage
+
+- npm install
+- npm run dev
+  - Opens:
+  - frontend: http://localhost:3000
+  - Server http://localhost:5000
+  - db.json contains data
+
+---
 
 There is no registration required.
 
