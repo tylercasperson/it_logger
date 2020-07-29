@@ -1,25 +1,25 @@
 {
   "logs": [
     {
-      "message": "Network card needs attention",
-      "attention": true,
-      "tech": "Sam Smith",
-      "date": "2020-07-28T18:58:45.850Z",
-      "id": 4
-    },
-    {
-      "message": "Computer 007 needs new screen",
-      "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2020-07-28T19:24:55.761Z",
-      "id": 5
-    },
-    {
       "message": "005 needs cable ",
       "attention": false,
       "tech": "John Doe",
       "date": "2020-07-28T19:25:14.073Z",
       "id": 6
+    },
+    {
+      "id": 7,
+      "message": "Fixed 002 broken cable",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2020-07-29T00:39:38.974Z"
+    },
+    {
+      "message": "Computer 008 needs a new screen",
+      "attention": true,
+      "tech": "John Doe",
+      "date": "2020-07-29T00:31:04.258Z",
+      "id": 8
     }
   ],
   "techs": [
